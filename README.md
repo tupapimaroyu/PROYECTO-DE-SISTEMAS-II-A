@@ -1,19 +1,27 @@
-# PROYECTO DE SISTEMAS II-A
+# Sistema de Gestión de Inventarios - PROYECTO DE SISTEMAS II-A
 
-## Equipo 3: Módulo de Inventarios
+## Descripción
+Módulo especializado para el control, administración y trazabilidad en tiempo real de entradas, salidas y stock de productos dentro de la plataforma empresarial.
 
-### Integrantes
+## Objetivo General
+Diseñar e implementar un sistema eficiente de gestión de inventarios que optimice el registro de productos, reduzca pérdidas operativas y proporcione reportes detallados para la toma de decisiones.
+
+## Integrantes del Equipo
 * **Nombre:** Fernando Marupa Arnez
-* **Rol:** Desarrollador / Líder de Módulo
-* **Usuario de GitHub:** @tupapimaroyu
+* **Rol:** Desarrollador / Líder del Módulo
+* **GitHub:** [@tupapimaroyu](https://github.com/tupapimaroyu)
 
----
+## Tecnologías Utilizadas
+* **Lenguaje/Framework:** C#, WPF / Python
+* **Base de Datos:** PostgreSQL / SQL Server
+* **Control de Versiones:** Git & GitHub
+* **Diseño UI/UX:** Figma
 
-### Descripción del Módulo
-Este módulo está encargado de la gestión, control y trazabilidad del inventario dentro del sistema general. Permite la administración de productos, stock, entradas, salidas y reportes.
+## Enlace al Prototipo Figma
+[Ver Prototipo Interactivo en Figma](https://figma.com)
 
----
+## Estado del Proyecto
+`En Desarrollo` 🟡 - Sprint 1 en progreso.
 
-### Estructura del Proyecto
-* `/docs`: Documentación técnica y funcional del módulo de inventarios.
-* `/src`: Código fuente de la aplicación/módulo.
+## Licencia
+Este proyecto está bajo la Licencia MIT.
