@@ -9,6 +9,7 @@ Diseñar e implementar un sistema eficiente de gestión de inventarios que optim
 ## Integrantes del Equipo
 * **Nombre:** Fernando Marupa Arnez
 * **Rol:** Desarrollador / Líder del Módulo
+* **Correo institucional:** maff0033052@est.univalle.edu
 * **GitHub:** [@tupapimaroyu](https://github.com/tupapimaroyu)
 
 ## Tecnologías Utilizadas
@@ -18,10 +19,15 @@ Diseñar e implementar un sistema eficiente de gestión de inventarios que optim
 * **Diseño UI/UX:** Figma
 
 ## Enlace al Prototipo Figma
-[Ver Prototipo Interactivo en Figma](https://figma.com)
+[Ver diseño del sistema de inventarios en Figma](https://www.figma.com/design/9vZMiaDfXelRAyY4aYGxlj/Sin-t%C3%ADtulo?node-id=0-1)
+
+El diseño se encuentra alojado en Figma. El enlace también está documentado en [figma/enlace_figma.md](figma/enlace_figma.md).
 
 ## Estado del Proyecto
 `En Desarrollo` 🟡 - Sprint 1 en progreso.
 
-## Licencia
+## LicenciaS
 Este proyecto está bajo la Licencia MIT.
+
+## Documentación de la actividad
+[Segunda actividad de autoaprendizaje con datos de entrega](docs/Segunda_actividad_autoaprendizaje_actualizada.docx)
